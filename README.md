@@ -7,3 +7,7 @@ In case of wondering, you may also start from my websites --- they are open-sour
 - https://blog.never.pet --- My Little Blog (Mainly in Chinese)
 
 Cheers~ :D 
+
+Verification Links:
+- <a rel="me" href="https://mastodon.social/@neverbehave">Mastodon</a>
+- Starting by Oct 23, 2023, ![](https://komarev.com/ghpvc/?username=NeverBehave&style=flat-square)
